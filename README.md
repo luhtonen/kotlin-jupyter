@@ -7,6 +7,7 @@ In order to run those examples Kotlin kernel for Jupyter notebooks should be ins
 To install kotlin-jupyter-kernel execute following command:
 
 conda: `conda install kotlin-jupyter-kernel -c jetbrains`
+
 pip install: `pip install kotlin-jupyter-kernel`
 
 ## Run
